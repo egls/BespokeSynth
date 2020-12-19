@@ -1,3 +1,9 @@
+#build directories
+/Builds/*
+/JuceLibraryCode/*
+/build/*
+/MaxOSX/*
+
 # Bespoke stuff
 Release/Bespoke.app/*
 **/data/savestate/*
