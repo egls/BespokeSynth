@@ -4,36 +4,36 @@
               bundleIdentifier="com.ryanchallinor.Bespoke" includeBinaryInAppConfig="1"
               displaySplashScreen="1" reportAppUsage="1" splashScreenColour="Dark"
               cppLanguageStandard="11" companyCopyright="" jucerFormatVersion="1"
-              headerPath="C:\Python37\include">
+              headerPath="C:\Python39\include">
   <MAINGROUP id="w4HLAu" name="BespokeSynth">
     <GROUP id="{531CC336-D9CD-1F6E-7272-2D8ADD98F839}" name="libraries">
       <GROUP id="{EDAC49B3-0F38-670A-A6C8-02B0A9640225}" name="pybind11">
         <GROUP id="{D72EB779-61A3-79ED-7E84-187801DF14B1}" name="detail">
-          <FILE id="gBLH1i" name="class.h" compile="0" resource="0" file="Source/pybind11/detail/class.h"/>
-          <FILE id="pEP6pK" name="common.h" compile="0" resource="0" file="Source/pybind11/detail/common.h"/>
-          <FILE id="QhiP6Y" name="descr.h" compile="0" resource="0" file="Source/pybind11/detail/descr.h"/>
-          <FILE id="fEE3Zf" name="init.h" compile="0" resource="0" file="Source/pybind11/detail/init.h"/>
-          <FILE id="JiPNHd" name="internals.h" compile="0" resource="0" file="Source/pybind11/detail/internals.h"/>
-          <FILE id="UczV3T" name="typeid.h" compile="0" resource="0" file="Source/pybind11/detail/typeid.h"/>
+          <FILE id="gBLH1i" name="class.h" compile="0" resource="0" file="libs/pybind11/detail/class.h"/>
+          <FILE id="pEP6pK" name="common.h" compile="0" resource="0" file="libs/pybind11/detail/common.h"/>
+          <FILE id="QhiP6Y" name="descr.h" compile="0" resource="0" file="libs/pybind11/detail/descr.h"/>
+          <FILE id="fEE3Zf" name="init.h" compile="0" resource="0" file="libs/pybind11/detail/init.h"/>
+          <FILE id="JiPNHd" name="internals.h" compile="0" resource="0" file="libs/pybind11/detail/internals.h"/>
+          <FILE id="UczV3T" name="typeid.h" compile="0" resource="0" file="libs/pybind11/detail/typeid.h"/>
         </GROUP>
-        <FILE id="GJXiit" name="attr.h" compile="0" resource="0" file="Source/pybind11/attr.h"/>
-        <FILE id="x3SCbF" name="buffer_info.h" compile="0" resource="0" file="Source/pybind11/buffer_info.h"/>
+        <FILE id="GJXiit" name="attr.h" compile="0" resource="0" file="libs/pybind11/attr.h"/>
+        <FILE id="x3SCbF" name="buffer_info.h" compile="0" resource="0" file="libs/pybind11/buffer_info.h"/>
         <FILE id="zgaNvN" name="cast.h" compile="0" resource="0" file="Source/pybind11/cast.h"/>
-        <FILE id="LO0JdW" name="chrono.h" compile="0" resource="0" file="Source/pybind11/chrono.h"/>
-        <FILE id="tggdHQ" name="common.h" compile="0" resource="0" file="Source/pybind11/common.h"/>
-        <FILE id="w3LtqS" name="complex.h" compile="0" resource="0" file="Source/pybind11/complex.h"/>
-        <FILE id="fH43v9" name="eigen.h" compile="0" resource="0" file="Source/pybind11/eigen.h"/>
-        <FILE id="KLkSSv" name="embed.h" compile="0" resource="0" file="Source/pybind11/embed.h"/>
-        <FILE id="FtZYmX" name="eval.h" compile="0" resource="0" file="Source/pybind11/eval.h"/>
-        <FILE id="FTXJtI" name="functional.h" compile="0" resource="0" file="Source/pybind11/functional.h"/>
-        <FILE id="WXLV1c" name="iostream.h" compile="0" resource="0" file="Source/pybind11/iostream.h"/>
-        <FILE id="Ua3xAm" name="numpy.h" compile="0" resource="0" file="Source/pybind11/numpy.h"/>
-        <FILE id="npSjNg" name="operators.h" compile="0" resource="0" file="Source/pybind11/operators.h"/>
-        <FILE id="FZgHui" name="options.h" compile="0" resource="0" file="Source/pybind11/options.h"/>
-        <FILE id="YMp35D" name="pybind11.h" compile="0" resource="0" file="Source/pybind11/pybind11.h"/>
-        <FILE id="P3wJtu" name="pytypes.h" compile="0" resource="0" file="Source/pybind11/pytypes.h"/>
-        <FILE id="bFSg7j" name="stl.h" compile="0" resource="0" file="Source/pybind11/stl.h"/>
-        <FILE id="ECmRK9" name="stl_bind.h" compile="0" resource="0" file="Source/pybind11/stl_bind.h"/>
+        <FILE id="LO0JdW" name="chrono.h" compile="0" resource="0" file="libs/pybind11/chrono.h"/>
+        <FILE id="tggdHQ" name="common.h" compile="0" resource="0" file="libs/pybind11/common.h"/>
+        <FILE id="w3LtqS" name="complex.h" compile="0" resource="0" file="libs/pybind11/complex.h"/>
+        <FILE id="fH43v9" name="eigen.h" compile="0" resource="0" file="libs/pybind11/eigen.h"/>
+        <FILE id="KLkSSv" name="embed.h" compile="0" resource="0" file="libs/pybind11/embed.h"/>
+        <FILE id="FtZYmX" name="eval.h" compile="0" resource="0" file="libs/pybind11/eval.h"/>
+        <FILE id="FTXJtI" name="functional.h" compile="0" resource="0" file="libs/pybind11/functional.h"/>
+        <FILE id="WXLV1c" name="iostream.h" compile="0" resource="0" file="libs/pybind11/iostream.h"/>
+        <FILE id="Ua3xAm" name="numpy.h" compile="0" resource="0" file="libs/pybind11/numpy.h"/>
+        <FILE id="npSjNg" name="operators.h" compile="0" resource="0" file="libs/pybind11/operators.h"/>
+        <FILE id="FZgHui" name="options.h" compile="0" resource="0" file="libs/pybind11/options.h"/>
+        <FILE id="YMp35D" name="pybind11.h" compile="0" resource="0" file="libs/pybind11/pybind11.h"/>
+        <FILE id="P3wJtu" name="pytypes.h" compile="0" resource="0" file="libs/pybind11/pytypes.h"/>
+        <FILE id="bFSg7j" name="stl.h" compile="0" resource="0" file="libs/pybind11/stl.h"/>
+        <FILE id="ECmRK9" name="stl_bind.h" compile="0" resource="0" file="libs/pybind11/stl_bind.h"/>
       </GROUP>
       <GROUP id="{C4158546-26E8-FF45-A033-B3162B6CC555}" name="push2">
         <FILE id="OYwEhI" name="config.h" compile="0" resource="0" file="Source/push2/libusb/config.h"/>
