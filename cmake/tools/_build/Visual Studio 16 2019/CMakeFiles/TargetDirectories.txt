@@ -1,6 +1,0 @@
-C:/Users/eglis/localRepositories/FRUT/cmake/tools/_build/Visual Studio 16 2019/CMakeFiles/tools_juce_core.dir
-C:/Users/eglis/localRepositories/FRUT/cmake/tools/_build/Visual Studio 16 2019/CMakeFiles/INSTALL.dir
-C:/Users/eglis/localRepositories/FRUT/cmake/tools/_build/Visual Studio 16 2019/CMakeFiles/ALL_BUILD.dir
-C:/Users/eglis/localRepositories/FRUT/cmake/tools/_build/Visual Studio 16 2019/CMakeFiles/ZERO_CHECK.dir
-C:/Users/eglis/localRepositories/FRUT/cmake/tools/_build/Visual Studio 16 2019/BinaryDataBuilder/CMakeFiles/BinaryDataBuilder.dir
-C:/Users/eglis/localRepositories/FRUT/cmake/tools/_build/Visual Studio 16 2019/BinaryDataBuilder/CMakeFiles/INSTALL.dir
